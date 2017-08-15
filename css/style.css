@@ -47,4 +47,17 @@
 .about {
   margin-top: 50px; }
 
+.latest {
+  margin-top: 50px; }
+  .latest .fotos {
+    margin-top: 50px; }
+  .latest img {
+    margin-top: 20px;
+    width: 300px; }
+  .latest .celeste {
+    width: 250px;
+    height: 3px;
+    background-color: #29a3a3;
+    margin-left: 530px; }
+
 /*# sourceMappingURL=style.css.map */
