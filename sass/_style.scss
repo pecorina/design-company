@@ -54,6 +54,9 @@
 }
 .about{
 	margin-top: 50px;
+	.cel{
+		width: 100%;
+	}
 }
 .latest{
 	margin-top: 50px;
@@ -65,10 +68,42 @@
 	  width: 300px;
     }
     .celeste{
-     width: 250px;
+     width: 150px;
      height: 3px;
      background-color: #29a3a3;
-     margin-left: 530px;
+     
     }
 
+}
+
+.amazing{
+	margin-top: 70px;
+    .celestito{
+     width: 250px;
+     height: 1px;
+     background-color: #29a3a3;
+     
+    }
+	.filaone{
+		margin-top: 40px;
+	    .code{
+	    	i{
+	          padding: 6px;
+	          font-size: 65px;
+	          color:#73baae;
+	      }
+	    }
+
+	}
+
+	.filados{
+		margin-top: 50px;
+		.code{
+	    	i{
+	          padding: 6px;
+	          font-size: 67px;
+	          color:#73baae;
+	      }
+	    }
+	}
 }
